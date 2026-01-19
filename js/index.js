@@ -1,0 +1,1 @@
+const BASE_URL= 'https://devsapihub.com/api-fast-food';
